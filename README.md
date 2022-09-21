@@ -8,6 +8,11 @@
 - Django
 - GIT
 
+📧E-mail: agustinpelle@hotmail.com
+
+🎯GitHub: www.github.com/arcv1337
+
+🔎LinkedIn: www.linkedin.com/in/agustinpelle/
 
 
 
