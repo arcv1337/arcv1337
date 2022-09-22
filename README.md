@@ -11,7 +11,6 @@
 
 ### En profundidad actualmente:
 1. JavaScript
-2. Bootstrap
 
 ## 
 📧E-mail: agustinpelle@hotmail.com
