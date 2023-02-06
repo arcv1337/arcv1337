@@ -8,9 +8,11 @@
 - Django
 - HTML
 - CSS
+- SQL
 
 ### En profundidad actualmente:
 1. JavaScript
+2. SQL
 
 ## 
 📧E-mail: agustinpelle@hotmail.com
