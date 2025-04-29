@@ -1,5 +1,5 @@
  <h2>Hola 👋  mi nombre es Agustín Fernando Pelle</h2>
-<h4>Estudiante de Desarrollo Backend</h4>
+<h4>Estudiante de Tecnicatura Universitaria Web</h4>
 
 ### Tecnologías que conozco:
 - JavaScript
