@@ -1,26 +1,8 @@
- <h2>Hola 👋  mi nombre es Agustín Fernando Pelle</h2>
-<h4>Estudiante de Tecnicatura Universitaria Web</h4>
+Me involucro activamente en el mundo del bug bounty, explorando vulnerabilidades en aplicaciones reales, lo que me ha brindado experiencia práctica en análisis de seguridad, pruebas ofensivas y pensamiento crítico orientado a la detección de fallos.
 
-### Tecnologías que conozco:
-- JavaScript
-- Python
-- Bootstrap
-- Django
-- HTML
-- CSS
-- SQL
+Además, tengo conocimientos en Node.js, Django y React que me permitieron complementar mis habilidades con una visión más integral del desarrollo web full-stack. Aunque no es mi enfoque principal, disfruto construir soluciones completas que combinen backend y frontend, y seguir profundizando en nuevas tecnologías según lo requieran los desafíos.
 
-### En profundidad actualmente:
-1. JavaScript
-2. SQL
-
-## 
-📧E-mail: agustinpelle@hotmail.com
-
-🎯GitHub: www.github.com/arcv1337
-
-🔎LinkedIn: www.linkedin.com/in/agustinpelle/
-
+Me considero una persona analítica, curiosa y con una fuerte motivación por mejorar constantemente. Con fácil adaptación y ganas de generar impacto real con la tecnología
 
 
 		
